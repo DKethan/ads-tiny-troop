@@ -1,6 +1,7 @@
 # 🧠 TinyTroupe Simulation – Raw Terminal Output
 
 ```python
+>>> from tinytroupe.agent import TinyPerson
 >>> from tinytroupe.environment import TinyWorld
 >>> charan = TinyPerson("Charan")
 >>> charan.define("age", 21)
